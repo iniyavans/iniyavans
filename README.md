@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Sparkout Tech](https://www.sparkouttech.com/) & [BlockchainX](https://www.blockchainx.tech/)
 
-- 🌱 I’m currently learning **Project Management**
+- 🌱 I’m currently learning **DevOps & Project Management**
 
 - 💬 Ask me about **Software Testing & Blockchain**
 
