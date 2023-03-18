@@ -20,9 +20,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iniyavan_choco_" target="_blank"><img align="center" src="https://img.icons8.com/color/256/twitter--v1.png" alt="iniyavan_choco_" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/iniyavan-murugesan-9a3898199/" target="_blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="iniyavan" height="30" width="40" /></a>
-<a href="https://instagram.com/iniyavan_choco" target="_blank"><img align="center" src="https://img.icons8.com/color/256/instagram-new.png" alt="iniyavan_choco" height="30" width="40" /></a>
+<a href="https://twitter.com/iniyavan_choco_" target="_blank"><img align="center" src="https://img.icons8.com/color/256/twitter--v1.png" alt="iniyavan_choco_" height="40" width="40" /></a>
+<a href="https://www.linkedin.com/in/iniyavan-murugesan-9a3898199/" target="_blank"><img align="center" src="https://img.icons8.com/color/256/linkedin.png" alt="iniyavan" height="40" width="40" /></a>
+<a href="https://instagram.com/iniyavan_choco" target="_blank"><img align="center" src="https://img.icons8.com/color/256/instagram-new.png" alt="iniyavan_choco" height="40" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
