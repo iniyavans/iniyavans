@@ -27,9 +27,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://www.selenium.dev" target="_blank" title ="selenium" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a>
-<a href="https://www.python.org" target="_blank" title ="python" rel="noreferrer"> <img src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" alt="python" width="40" height="40"/> </a>
-<a href="https://www.java.com" target="_blank" title ="java" rel="noreferrer"> <img src="https://i.pinimg.com/736x/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.jpg" alt="java" width="40" height="40"/> </a> 
-<a href="https://www.mongodb.com/" target="_blank" title ="mongodb" rel="noreferrer"> <img src="https://www.pngitem.com/pimgs/m/184-1843023_svg-mongodb-logo-png-transparent-png.png" alt="mongodb" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank" title ="python" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="python" width="40" height="40"/> </a>
+<a href="https://www.java.com" target="_blank" title ="java" rel="noreferrer"> <img src="https://www.kloia.com/hubfs/java-1.png" alt="java" width="40" height="40"/> </a> 
+<a href="https://www.mongodb.com/" target="_blank" title ="mongodb" rel="noreferrer"> <img src="https://www.pngrepo.com/png/331488/512/mongodb.png" alt="mongodb" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" title ="firebase" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" title ="git" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" title ="html5" rel="noreferrer"> <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html5" width="40" height="40"/> </a> 
