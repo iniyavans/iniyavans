@@ -41,6 +41,7 @@
 <a href="https://jmeter.apache.org/" target="_blank" title ="Jmeter" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrfjmgs9NTwfbeECm7e0TsLvbfuVNSzk0mRQmFvvY&s" alt="JMeter" width="40" height="40"/> </a> 
 <a href="https://swagger.io/" target="_blank" title ="Swagger" rel="noreferrer"> <img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-halz44im.png" alt="Swagger" width="40" height="40"/> </a> 
 <a href="https://rest-assured.io/" target="_blank" title ="REST assured" rel="noreferrer"> <img src="https://miro.medium.com/v2/resize:fill:224:224/1*qmS-f8Pv72ZavjF22v-xiw.png" alt="REST assured" width="40" height="40"/> </a> 
-<a href="https://testng.org/doc/" target="_blank" title ="TestNG" rel="noreferrer"> <img src="https://qatestlab.com/assets/Uploads/testng1.png" alt="TestNG" width="70" height="40"/> </a>
-<a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer"> <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a> 
- </p>
+<a href="https://testng.org/doc/" target="_blank" title ="TestNG" rel="noreferrer"> <img src="https://testerprovn.com/wp-content/uploads/2021/04/TestNG-l%C3%A0-gi.jpg" alt="TestNG" width="40" height="40"/> </a>
+<a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer"> <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
+<a href="https://docs.pytest.org/en/7.2.x/" target="_blank" title ="PyTest" rel="noreferrer"> <img src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="jenkins" width="40" height="40"/> </a> 
+</p>
