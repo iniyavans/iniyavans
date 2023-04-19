@@ -45,3 +45,9 @@
 <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer"> <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank" title ="PyTest" rel="noreferrer"> <img src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="jenkins" width="40" height="40"/> </a> 
 </p>
+
+## 🏆 *Github Status*
+
+<img  src="https://github-readme-stats.vercel.app/api?username=nilisha-jais&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=nilisha-jais&theme=dark" width="48%" >
+<br>
