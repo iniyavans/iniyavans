@@ -44,6 +44,10 @@
 <a href="https://testng.org/doc/" target="_blank" title ="TestNG" rel="noreferrer"> <img src="https://testerprovn.com/wp-content/uploads/2021/04/TestNG-l%C3%A0-gi.jpg" alt="TestNG" width="40" height="40"/> </a>
 <a href="https://www.blazemeter.com/" target="_blank" title ="Blazemeter" rel="noreferrer"> <img src="https://storage.googleapis.com/datanyze-data/technologies/600b5cb8e4b44ed7e24a210de4fa50ddac5d8b8c.png" alt="Blazemeter" width="40" height="40"/> </a>
 <a href="https://docs.pytest.org/en/7.2.x/" target="_blank" title ="PyTest" rel="noreferrer"> <img src="https://docs.pytest.org/en/6.2.x/_static/pytest1.png" alt="jenkins" width="40" height="40"/> </a> 
+
+Joke of the visit <img src="https://media.giphy.com/media/9rx8gnuRcIa7WJhDdR/giphy.gif" width=30>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 <a href="https://www.figma.com/" target="_blank" title ="Figma" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/> </a>
 </p>
 
