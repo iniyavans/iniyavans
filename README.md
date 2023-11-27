@@ -14,7 +14,7 @@
 
 - 📫 Reach me on [LikedIn](https://www.linkedin.com/in/iniyavan-murugesan-9a3898199/)
 
-- ⚡ Fun fact is **There are some things you can only learn in a storm**
+- ⚡ Fun fact is **Great Power Comes With Great Responsibility**
 
 - ⚡ Reality is **Learning is a endless process**
 
