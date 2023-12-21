@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Software Testing & Blockchain**
 
-- 📫 Reach me on [LikedIn](https://www.linkedin.com/in/iniyavan-murugesan-9a3898199/)
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/iniyavan-murugesan-9a3898199/)
 
 - ⚡ Fun fact is **Great Power Comes With Great Responsibility**
 
