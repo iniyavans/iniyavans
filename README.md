@@ -26,6 +26,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+<a href="https://playwright.dev/" target="_blank" title ="PlayWright" rel="noreferrer"> <img src="https://playwright.dev/img/playwright-logo.svg" alt="PlayWright" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" title ="selenium" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/220px-Selenium_Logo.png" alt="selenium" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" title ="python" rel="noreferrer"> <img src="https://img.freepik.com/free-icon/snakes_318-368381.jpg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" title ="java" rel="noreferrer"> <img src="https://www.kloia.com/hubfs/java-1.png" alt="java" width="40" height="40"/> </a> 
